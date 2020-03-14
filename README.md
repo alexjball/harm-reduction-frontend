@@ -1,3 +1,6 @@
+# harm-reduction-frontend
+web interface for WROC harm reduction app
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
