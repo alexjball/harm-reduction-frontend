@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/harm-reduction-frontend/static/css/main.25f5029a.chunk.css",
-    "main.js": "/harm-reduction-frontend/static/js/main.a7706180.chunk.js",
-    "main.js.map": "/harm-reduction-frontend/static/js/main.a7706180.chunk.js.map",
+    "main.js": "/harm-reduction-frontend/static/js/main.c8f7f2de.chunk.js",
+    "main.js.map": "/harm-reduction-frontend/static/js/main.c8f7f2de.chunk.js.map",
     "runtime-main.js": "/harm-reduction-frontend/static/js/runtime-main.9c7f3e5f.js",
     "runtime-main.js.map": "/harm-reduction-frontend/static/js/runtime-main.9c7f3e5f.js.map",
     "static/css/2.69121389.chunk.css": "/harm-reduction-frontend/static/css/2.69121389.chunk.css",
     "static/js/2.f45b5583.chunk.js": "/harm-reduction-frontend/static/js/2.f45b5583.chunk.js",
     "static/js/2.f45b5583.chunk.js.map": "/harm-reduction-frontend/static/js/2.f45b5583.chunk.js.map",
     "index.html": "/harm-reduction-frontend/index.html",
-    "precache-manifest.3adcbf33140a459a8717dd6f5f608946.js": "/harm-reduction-frontend/precache-manifest.3adcbf33140a459a8717dd6f5f608946.js",
+    "precache-manifest.445c170de778007c8757a0974e46f4f2.js": "/harm-reduction-frontend/precache-manifest.445c170de778007c8757a0974e46f4f2.js",
     "service-worker.js": "/harm-reduction-frontend/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/harm-reduction-frontend/static/css/2.69121389.chunk.css.map",
     "static/css/main.25f5029a.chunk.css.map": "/harm-reduction-frontend/static/css/main.25f5029a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.f45b5583.chunk.js",
     "static/css/main.25f5029a.chunk.css",
-    "static/js/main.a7706180.chunk.js"
+    "static/js/main.c8f7f2de.chunk.js"
   ]
 }
