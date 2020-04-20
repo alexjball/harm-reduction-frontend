@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "babbbbb45b4599727463b69ef8488737",
+    "revision": "56545fbb6a28e81921f151ece65b3afb",
     "url": "/harm-reduction-frontend/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/harm-reduction-frontend/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "54b05ec03136e12f103b",
-    "url": "/harm-reduction-frontend/static/css/main.25f5029a.chunk.css"
+    "revision": "21e34296a5adf0e0c50c",
+    "url": "/harm-reduction-frontend/static/css/main.bf6ae26d.chunk.css"
   },
   {
     "revision": "d9e1c6243abe43180b9b",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/harm-reduction-frontend/static/js/2.f45b5583.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54b05ec03136e12f103b",
-    "url": "/harm-reduction-frontend/static/js/main.c8f7f2de.chunk.js"
+    "revision": "21e34296a5adf0e0c50c",
+    "url": "/harm-reduction-frontend/static/js/main.531ea2e7.chunk.js"
   },
   {
     "revision": "ebcc0e525d0d9bda19f2",
