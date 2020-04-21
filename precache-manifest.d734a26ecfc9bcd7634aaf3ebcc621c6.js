@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "317f1d5bf4d49160bdf6c357e104299a",
+    "revision": "cd1d167a4e823cc87749a0fbf5b8663c",
     "url": "/harm-reduction-frontend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/harm-reduction-frontend/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "40a14cce96a9a772da79",
+    "revision": "d75b85a995b84ee9b09f",
     "url": "/harm-reduction-frontend/static/css/main.bf6ae26d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/harm-reduction-frontend/static/js/2.439c22bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40a14cce96a9a772da79",
-    "url": "/harm-reduction-frontend/static/js/main.114b9e87.chunk.js"
+    "revision": "d75b85a995b84ee9b09f",
+    "url": "/harm-reduction-frontend/static/js/main.f0e0b7d1.chunk.js"
   },
   {
     "revision": "ebcc0e525d0d9bda19f2",
